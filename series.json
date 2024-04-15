@@ -1,0 +1,30 @@
+[
+  {
+    "active": true,
+    "copyright": "Matt Dinniman",
+    "name": "Dungeon Crawler Carl",
+    "stub": "dungeon-crawler-carl",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "http://www.facebook.com/mattdinnimanauthor"
+      },
+      {
+        "label": "Fandom",
+        "url": "https://dungeon-crawler-carl.fandom.com"
+      },
+      {
+        "label": "Twitter",
+        "url": "http://www.twitter.com/mattdinniman"
+      },
+      {
+        "label": "LibraryThing",
+        "url": "https://www.librarything.com/nseries/334542/Dungeon-Crawler-Carl"
+      },
+      {
+        "label": "Goodreads",
+        "url": "https://www.goodreads.com/series/309211-dungeon-crawler-carl"
+      }
+    ]
+  }
+]
