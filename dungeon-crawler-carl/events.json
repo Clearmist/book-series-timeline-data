@@ -2,27 +2,33 @@
   {
     "id": "aa0de7a7-62ac-44a0-9d8c-4734428b963f",
     "tags": [
-      "5823e95a-58c9-4998-b349-910be3a35564"
+      "5823e95a-58c9-4998-b349-910be3a35564",
+      "c1c1c4ca-fc25-408c-8d1b-9fc4a367a1f2"
     ],
     "text": "Primals spread across the entire galaxy."
   },
   {
     "id": "70565233-bbcf-44c7-a20f-c04e5384fb00",
     "tags": [
-      "5823e95a-58c9-4998-b349-910be3a35564"
+      "5823e95a-58c9-4998-b349-910be3a35564",
+      "c1c1c4ca-fc25-408c-8d1b-9fc4a367a1f2"
     ],
     "text": "A galaxy-wide war occurs then all primals vanish."
   },
   {
     "id": "7c3ec148-7367-4edb-b301-b4df96d98d36",
     "tags": [
-      "151c8a8c-099d-48cb-999f-c2d35a877290"
+      "151c8a8c-099d-48cb-999f-c2d35a877290",
+      "e0c24aa7-8500-4a4c-8f3d-4cf751567ac0"
     ],
     "text": "Earth has first contact with an alien species thousands of years ago."
   },
   {
     "id": "bd63c6b6-8c3f-46a0-b01f-aa390fa5dc9a",
-    "tags": [],
+    "tags": [
+      "151c8a8c-099d-48cb-999f-c2d35a877290",
+      "e0c24aa7-8500-4a4c-8f3d-4cf751567ac0"
+    ],
     "text": "The 50 solars countdown starts for Earth to file an appeal for mineral and element rights."
   }
 ]

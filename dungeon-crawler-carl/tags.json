@@ -38,7 +38,7 @@
         "title": "The Eye of the Bedlam Bride"
       },
       {
-        "id": "56ff3382-dbcd-47fc-99e2-cef3762213ec",
+        "id": "a8e62ab1-90be-4421-a467-86f9fe8e5d10",
         "label": 7,
         "title": "Faction Wars"
       }
@@ -208,6 +208,10 @@
       {
         "id": "7af259ad-05f7-4d1f-af19-7a347e3c3d83",
         "label": "Kua-Tin"
+      },
+      {
+        "id": "c1c1c4ca-fc25-408c-8d1b-9fc4a367a1f2",
+        "label": "Primal"
       },
       {
         "id": "f8bf4471-6fb2-4f57-aa82-bd4b99ef0426",
