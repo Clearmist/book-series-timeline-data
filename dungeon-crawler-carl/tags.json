@@ -54,6 +54,11 @@
         "title": "Beatrice"
       },
       {
+        "id": "a070a946-15e4-4dfd-9082-92e7841e4704",
+        "label": "Brad",
+        "title": "Brad_the_Chad69"
+      },
+      {
         "id": "e32d61ba-b16c-448e-99c3-3aa84f4965f2",
         "label": "Carl"
       },
@@ -80,73 +85,27 @@
         "label": "Maggie My"
       },
       {
+        "id": "8ec2e49b-450f-4bf2-8c61-7cdc5b788467",
+        "label": "Mordecai"
+      },
+      {
+        "id": "c14153e7-0ada-4415-9f63-81b9b5937936",
+        "label": "Odette"
+      },
+      {
         "id": "a2ae414a-ffca-4075-b283-4ad2a7ca85da",
         "label": "Rory",
         "title": "Rory the Goblin Shamanka"
+      },
+      {
+        "id": "66fe9f97-d0a9-4771-9094-1678d67325df",
+        "label": "Uzzi"
       }
     ]
   },
   {
     "id": "c91e6c14-5e12-435b-9fbe-8c48197d1b25",
     "label": "Introduction"
-  },
-  {
-    "id": "8e330191-8712-4f38-b4df-6b652ddb91ef",
-    "label": "NPC Type",
-    "nodes": [
-      {
-        "id": "675a905b-b3d7-4090-ada0-ca68466085e6",
-        "label": "Bad Llama"
-      },
-      {
-        "id": "35dbf205-7112-461d-a328-caaeeec168cd",
-        "label": "Bopca Protector"
-      },
-      {
-        "id": "1982c043-1b14-4274-b389-909f9c346948",
-        "label": "Goblin Bomb Bard"
-      },
-      {
-        "id": "fe2f37e5-b513-4e95-81cd-fb2b35ebb1d6",
-        "label": "Goblin Engineer"
-      },
-      {
-        "id": "f3a7e2cd-f288-47da-9f80-f0fb587b6e07",
-        "label": "Goblin Shamanka"
-      },
-      {
-        "id": "afd8f1e6-2713-48fd-ac5b-4cc70ed42881",
-        "label": "Guildmaster"
-      },
-      {
-        "id": "72b5a10a-d3f5-4606-9a10-f4bc8cf066ed",
-        "label": "Rat Brute"
-      },
-      {
-        "id": "239f8392-58e9-4064-b6bd-4c50038d10e7",
-        "label": "Rat Hooligan"
-      },
-      {
-        "id": "0533b1e6-f0bc-46a1-a63b-76f5f111615c",
-        "label": "Rat Shaman"
-      },
-      {
-        "id": "3af8fadf-b016-4ac7-9ab2-ad671ac356e0",
-        "label": "Scatterer Brood Guardian"
-      },
-      {
-        "id": "47ab292a-a49a-4a08-8978-57992d2e99f8",
-        "label": "Scatterers"
-      },
-      {
-        "id": "c82e8477-b330-4d50-9a7f-7dee9a96729a",
-        "label": "Shambling Acid Impaler"
-      },
-      {
-        "id": "e61bd063-9419-4ac5-8320-f6b9e4084938",
-        "label": "Slime"
-      }
-    ]
   },
   {
     "id": "e0494469-22a0-47ec-85bc-609ff1856a9a",
@@ -194,9 +153,23 @@
     ]
   },
   {
+    "id": "458bf554-789f-44a1-a0e6-940f41718bad",
+    "label": "Plot line",
+    "nodes": [
+      {
+        "id": "71b38a92-fe6a-4a49-b860-6431ff1f73fc",
+        "label": "Mordecai and Odette"
+      }
+    ]
+  },
+  {
     "id": "a57e98b6-958e-4ea3-b0cb-673c6e48e916",
     "label": "Species",
     "nodes": [
+      {
+        "id": "682b5010-966f-466e-84d8-97fa241d636d",
+        "label": "Changeling"
+      },
       {
         "id": "6a568ee5-f9e3-4fbd-95b9-615dd2f8be5f",
         "label": "Goblin"
@@ -216,6 +189,10 @@
       {
         "id": "f8bf4471-6fb2-4f57-aa82-bd4b99ef0426",
         "label": "Rat-Kin"
+      },
+      {
+        "id": "0324b5b8-7896-4c5f-8222-83be3eb3d9a1",
+        "label": "Sky Fowl"
       }
     ]
   }
